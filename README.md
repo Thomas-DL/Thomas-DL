@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Thomas-DL
-- 👀 I’m interested in Laravel & Vue.js
-- 🌱 I’m currently learning TDD with Pest
+- 👀 I’m interested in TALL stack
 - 💞️ I’m looking to collaborate on freelance missions
 
 <!---
